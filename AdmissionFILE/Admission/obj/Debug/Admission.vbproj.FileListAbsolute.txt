@@ -1,0 +1,68 @@
+C:\Users\brixb\Desktop\putanginsa admision na ysan\Admission\bin\Debug\Admission.exe.config
+C:\Users\brixb\Desktop\putanginsa admision na ysan\Admission\bin\Debug\Admission.exe
+C:\Users\brixb\Desktop\putanginsa admision na ysan\Admission\bin\Debug\Admission.pdb
+C:\Users\brixb\Desktop\putanginsa admision na ysan\Admission\bin\Debug\Admission.xml
+C:\Users\brixb\Desktop\putanginsa admision na ysan\Admission\obj\Debug\Admission.vbproj.AssemblyReference.cache
+C:\Users\brixb\Desktop\putanginsa admision na ysan\Admission\obj\Debug\Admission.Form1.resources
+C:\Users\brixb\Desktop\putanginsa admision na ysan\Admission\obj\Debug\Admission.Resources.resources
+C:\Users\brixb\Desktop\putanginsa admision na ysan\Admission\obj\Debug\Admission.vbproj.GenerateResource.cache
+C:\Users\brixb\Desktop\putanginsa admision na ysan\Admission\obj\Debug\Admission.vbproj.CoreCompileInputs.cache
+C:\Users\brixb\Desktop\putanginsa admision na ysan\Admission\obj\Debug\Admission.exe
+C:\Users\brixb\Desktop\putanginsa admision na ysan\Admission\obj\Debug\Admission.xml
+C:\Users\brixb\Desktop\putanginsa admision na ysan\Admission\obj\Debug\Admission.pdb
+C:\Users\angel\Downloads\Admission\bin\Debug\Admission.exe.config
+C:\Users\angel\Downloads\Admission\bin\Debug\Admission.exe
+C:\Users\angel\Downloads\Admission\bin\Debug\Admission.pdb
+C:\Users\angel\Downloads\Admission\bin\Debug\Admission.xml
+C:\Users\angel\Downloads\Admission\obj\Debug\Admission.vbproj.AssemblyReference.cache
+C:\Users\angel\Downloads\Admission\obj\Debug\Admission.Resources.resources
+C:\Users\angel\Downloads\Admission\obj\Debug\Admission.vbproj.GenerateResource.cache
+C:\Users\angel\Downloads\Admission\obj\Debug\Admission.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Downloads\Admission\obj\Debug\Admission.exe
+C:\Users\angel\Downloads\Admission\obj\Debug\Admission.xml
+C:\Users\angel\Downloads\Admission\obj\Debug\Admission.pdb
+C:\Users\angel\Downloads\Admission\bin\Debug\Guna.UI.dll
+C:\Users\angel\Downloads\Admission\bin\Debug\Guna.UI2.dll
+C:\Users\angel\Downloads\Admission\obj\Debug\Admission.MainForm.resources
+C:\Users\angel\Downloads\Admission\obj\Debug\Admission.vbproj.Up2Date
+C:\Users\angel\Downloads\Admission\obj\Debug\Admission.Courses.resources
+C:\Users\angel\Downloads\Admission\obj\Debug\Admission.Admit.resources
+C:\Users\angel\Downloads\Admission\obj\Debug\Admission.ADMISSIONRecords.resources
+C:\Users\angel\Downloads\Admission\obj\Debug\Admission.ADMISSIONLogin.resources
+D:\Users\shane borat\Desktop\new 4.15\Admission\bin\Debug\Admission.exe.config
+D:\Users\shane borat\Desktop\new 4.15\Admission\bin\Debug\Admission.exe
+D:\Users\shane borat\Desktop\new 4.15\Admission\bin\Debug\Admission.pdb
+D:\Users\shane borat\Desktop\new 4.15\Admission\bin\Debug\Admission.xml
+D:\Users\shane borat\Desktop\new 4.15\Admission\obj\Debug\Admission.vbproj.AssemblyReference.cache
+D:\Users\shane borat\Desktop\new 4.15\Admission\obj\Debug\Admission.ADMISSIONLogin.resources
+D:\Users\shane borat\Desktop\new 4.15\Admission\obj\Debug\Admission.ADMISSIONRecords.resources
+D:\Users\shane borat\Desktop\new 4.15\Admission\obj\Debug\Admission.Admit.resources
+D:\Users\shane borat\Desktop\new 4.15\Admission\obj\Debug\Admission.Courses.resources
+D:\Users\shane borat\Desktop\new 4.15\Admission\obj\Debug\Admission.MainForm.resources
+D:\Users\shane borat\Desktop\new 4.15\Admission\obj\Debug\Admission.Resources.resources
+D:\Users\shane borat\Desktop\new 4.15\Admission\obj\Debug\Admission.vbproj.GenerateResource.cache
+D:\Users\shane borat\Desktop\new 4.15\Admission\obj\Debug\Admission.vbproj.CoreCompileInputs.cache
+D:\Users\shane borat\Desktop\new 4.15\Admission\obj\Debug\Admission.vbproj.CopyComplete
+D:\Users\shane borat\Desktop\new 4.15\Admission\obj\Debug\Admission.exe
+D:\Users\shane borat\Desktop\new 4.15\Admission\obj\Debug\Admission.xml
+D:\Users\shane borat\Desktop\new 4.15\Admission\obj\Debug\Admission.pdb
+C:\Users\angel\Downloads\Admission\obj\Debug\Admission.ADMISSIONDashboard.resources
+D:\Users\shane borat\Desktop\new 4.15\Admission\obj\Debug\Admission.ADMISSIONDashboard.resources
+C:\Users\angel\Downloads\AdmissionFILE\Admission\bin\Debug\Admission.exe.config
+C:\Users\angel\Downloads\AdmissionFILE\Admission\bin\Debug\Admission.exe
+C:\Users\angel\Downloads\AdmissionFILE\Admission\bin\Debug\Admission.pdb
+C:\Users\angel\Downloads\AdmissionFILE\Admission\bin\Debug\Admission.xml
+C:\Users\angel\Downloads\AdmissionFILE\Admission\obj\Debug\Admission.vbproj.AssemblyReference.cache
+C:\Users\angel\Downloads\AdmissionFILE\Admission\obj\Debug\Admission.ADMISSIONDashboard.resources
+C:\Users\angel\Downloads\AdmissionFILE\Admission\obj\Debug\Admission.ADMISSIONLogin.resources
+C:\Users\angel\Downloads\AdmissionFILE\Admission\obj\Debug\Admission.ADMISSIONRecords.resources
+C:\Users\angel\Downloads\AdmissionFILE\Admission\obj\Debug\Admission.Admit.resources
+C:\Users\angel\Downloads\AdmissionFILE\Admission\obj\Debug\Admission.Courses.resources
+C:\Users\angel\Downloads\AdmissionFILE\Admission\obj\Debug\Admission.MainForm.resources
+C:\Users\angel\Downloads\AdmissionFILE\Admission\obj\Debug\Admission.Resources.resources
+C:\Users\angel\Downloads\AdmissionFILE\Admission\obj\Debug\Admission.vbproj.GenerateResource.cache
+C:\Users\angel\Downloads\AdmissionFILE\Admission\obj\Debug\Admission.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Downloads\AdmissionFILE\Admission\obj\Debug\Admission.vbproj.Up2Date
+C:\Users\angel\Downloads\AdmissionFILE\Admission\obj\Debug\Admission.exe
+C:\Users\angel\Downloads\AdmissionFILE\Admission\obj\Debug\Admission.xml
+C:\Users\angel\Downloads\AdmissionFILE\Admission\obj\Debug\Admission.pdb

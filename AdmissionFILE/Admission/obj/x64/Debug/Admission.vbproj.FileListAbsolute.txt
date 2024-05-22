@@ -1,0 +1,10 @@
+C:\Users\angel\Downloads\AdmissionFILE\Admission\obj\x64\Debug\Admission.vbproj.AssemblyReference.cache
+C:\Users\angel\Downloads\AdmissionFILE\Admission\obj\x64\Debug\Admission.ADMISSIONDashboard.resources
+C:\Users\angel\Downloads\AdmissionFILE\Admission\obj\x64\Debug\Admission.ADMISSIONLogin.resources
+C:\Users\angel\Downloads\AdmissionFILE\Admission\obj\x64\Debug\Admission.ADMISSIONRecords.resources
+C:\Users\angel\Downloads\AdmissionFILE\Admission\obj\x64\Debug\Admission.Admit.resources
+C:\Users\angel\Downloads\AdmissionFILE\Admission\obj\x64\Debug\Admission.Courses.resources
+C:\Users\angel\Downloads\AdmissionFILE\Admission\obj\x64\Debug\Admission.MainForm.resources
+C:\Users\angel\Downloads\AdmissionFILE\Admission\obj\x64\Debug\Admission.Resources.resources
+C:\Users\angel\Downloads\AdmissionFILE\Admission\obj\x64\Debug\Admission.vbproj.GenerateResource.cache
+C:\Users\angel\Downloads\AdmissionFILE\Admission\obj\x64\Debug\Admission.vbproj.CoreCompileInputs.cache

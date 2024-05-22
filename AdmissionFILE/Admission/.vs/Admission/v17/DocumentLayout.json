@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angel\\Downloads\\AdmissionFILE\\Admission\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35DC7A4A-322C-4A97-9290-8003CE752AAD}|Admission.vbproj|c:\\users\\angel\\downloads\\admissionfile\\admission\\admit.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{35DC7A4A-322C-4A97-9290-8003CE752AAD}|Admission.vbproj|solutionrelative:admit.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DC7A4A-322C-4A97-9290-8003CE752AAD}|Admission.vbproj|C:\\Users\\angel\\Downloads\\AdmissionFILE\\Admission\\admissiondashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{35DC7A4A-322C-4A97-9290-8003CE752AAD}|Admission.vbproj|solutionrelative:admissiondashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DC7A4A-322C-4A97-9290-8003CE752AAD}|Admission.vbproj|C:\\Users\\angel\\Downloads\\AdmissionFILE\\Admission\\admissionrecords.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{35DC7A4A-322C-4A97-9290-8003CE752AAD}|Admission.vbproj|solutionrelative:admissionrecords.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DC7A4A-322C-4A97-9290-8003CE752AAD}|Admission.vbproj|C:\\Users\\angel\\Downloads\\AdmissionFILE\\Admission\\admissionlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{35DC7A4A-322C-4A97-9290-8003CE752AAD}|Admission.vbproj|solutionrelative:admissionlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DC7A4A-322C-4A97-9290-8003CE752AAD}|Admission.vbproj|C:\\Users\\angel\\Downloads\\AdmissionFILE\\Admission\\courses.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{35DC7A4A-322C-4A97-9290-8003CE752AAD}|Admission.vbproj|solutionrelative:courses.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DC7A4A-322C-4A97-9290-8003CE752AAD}|Admission.vbproj|C:\\Users\\angel\\Downloads\\AdmissionFILE\\Admission\\mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{35DC7A4A-322C-4A97-9290-8003CE752AAD}|Admission.vbproj|solutionrelative:mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DC7A4A-322C-4A97-9290-8003CE752AAD}|Admission.vbproj|C:\\Users\\angel\\Downloads\\AdmissionFILE\\Admission\\admissiondashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{35DC7A4A-322C-4A97-9290-8003CE752AAD}|Admission.vbproj|solutionrelative:admissiondashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DC7A4A-322C-4A97-9290-8003CE752AAD}|Admission.vbproj|C:\\Users\\angel\\Downloads\\AdmissionFILE\\Admission\\admissionlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{35DC7A4A-322C-4A97-9290-8003CE752AAD}|Admission.vbproj|solutionrelative:admissionlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DC7A4A-322C-4A97-9290-8003CE752AAD}|Admission.vbproj|C:\\Users\\angel\\Downloads\\AdmissionFILE\\Admission\\MainForm.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{35DC7A4A-322C-4A97-9290-8003CE752AAD}|Admission.vbproj|solutionrelative:MainForm.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Admit.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\angel\\Downloads\\AdmissionFILE\\Admission\\Admit.vb",
+              "RelativeDocumentMoniker": "Admit.vb",
+              "ToolTip": "C:\\Users\\angel\\Downloads\\AdmissionFILE\\Admission\\Admit.vb [Design]",
+              "RelativeToolTip": "Admit.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-18T15:33:28.141Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ADMISSIONLogin.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\angel\\Downloads\\AdmissionFILE\\Admission\\ADMISSIONLogin.vb",
+              "RelativeDocumentMoniker": "ADMISSIONLogin.vb",
+              "ToolTip": "C:\\Users\\angel\\Downloads\\AdmissionFILE\\Admission\\ADMISSIONLogin.vb [Design]",
+              "RelativeToolTip": "ADMISSIONLogin.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-18T15:09:14.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ADMISSIONDashboard.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\angel\\Downloads\\AdmissionFILE\\Admission\\ADMISSIONDashboard.vb",
+              "RelativeDocumentMoniker": "ADMISSIONDashboard.vb",
+              "ToolTip": "C:\\Users\\angel\\Downloads\\AdmissionFILE\\Admission\\ADMISSIONDashboard.vb [Design]",
+              "RelativeToolTip": "ADMISSIONDashboard.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-03T13:49:27.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ADMISSIONRecords.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\angel\\Downloads\\AdmissionFILE\\Admission\\ADMISSIONRecords.vb",
+              "RelativeDocumentMoniker": "ADMISSIONRecords.vb",
+              "ToolTip": "C:\\Users\\angel\\Downloads\\AdmissionFILE\\Admission\\ADMISSIONRecords.vb [Design]",
+              "RelativeToolTip": "ADMISSIONRecords.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-03T13:49:51.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\angel\\Downloads\\AdmissionFILE\\Admission\\MainForm.vb",
+              "RelativeDocumentMoniker": "MainForm.vb",
+              "ToolTip": "C:\\Users\\angel\\Downloads\\AdmissionFILE\\Admission\\MainForm.vb [Design]",
+              "RelativeToolTip": "MainForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-13T18:41:07.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Courses.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\angel\\Downloads\\AdmissionFILE\\Admission\\Courses.vb",
+              "RelativeDocumentMoniker": "Courses.vb",
+              "ToolTip": "C:\\Users\\angel\\Downloads\\AdmissionFILE\\Admission\\Courses.vb [Design]",
+              "RelativeToolTip": "Courses.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-05T08:10:21.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ADMISSIONLogin.vb",
+              "DocumentMoniker": "C:\\Users\\angel\\Downloads\\AdmissionFILE\\Admission\\ADMISSIONLogin.vb",
+              "RelativeDocumentMoniker": "ADMISSIONLogin.vb",
+              "ToolTip": "C:\\Users\\angel\\Downloads\\AdmissionFILE\\Admission\\ADMISSIONLogin.vb",
+              "RelativeToolTip": "ADMISSIONLogin.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-02T15:39:05.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ADMISSIONDashboard.vb",
+              "DocumentMoniker": "C:\\Users\\angel\\Downloads\\AdmissionFILE\\Admission\\ADMISSIONDashboard.vb",
+              "RelativeDocumentMoniker": "ADMISSIONDashboard.vb",
+              "ToolTip": "C:\\Users\\angel\\Downloads\\AdmissionFILE\\Admission\\ADMISSIONDashboard.vb",
+              "RelativeToolTip": "ADMISSIONDashboard.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-03T13:52:59.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainForm.vb",
+              "DocumentMoniker": "C:\\Users\\angel\\Downloads\\AdmissionFILE\\Admission\\MainForm.vb",
+              "RelativeDocumentMoniker": "MainForm.vb",
+              "ToolTip": "C:\\Users\\angel\\Downloads\\AdmissionFILE\\Admission\\MainForm.vb",
+              "RelativeToolTip": "MainForm.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-18T14:23:10.788Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

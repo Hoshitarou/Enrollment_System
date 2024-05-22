@@ -1,0 +1,269 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angel\\Downloads\\DEAN\\DEAN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E3B968E-D7C3-42EB-9EA7-4B7F74E1C1CB}|DEAN\\DEAN.vbproj|c:\\users\\angel\\downloads\\dean\\dean\\dean\\deanprofiletab.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8E3B968E-D7C3-42EB-9EA7-4B7F74E1C1CB}|DEAN\\DEAN.vbproj|solutionrelative:dean\\deanprofiletab.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E3B968E-D7C3-42EB-9EA7-4B7F74E1C1CB}|DEAN\\DEAN.vbproj|C:\\Users\\angel\\Downloads\\DEAN\\DEAN\\dean\\deanmainpanel.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8E3B968E-D7C3-42EB-9EA7-4B7F74E1C1CB}|DEAN\\DEAN.vbproj|solutionrelative:dean\\deanmainpanel.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E3B968E-D7C3-42EB-9EA7-4B7F74E1C1CB}|DEAN\\DEAN.vbproj|C:\\Users\\angel\\Downloads\\DEAN\\DEAN\\dean\\deandashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8E3B968E-D7C3-42EB-9EA7-4B7F74E1C1CB}|DEAN\\DEAN.vbproj|solutionrelative:dean\\deandashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E3B968E-D7C3-42EB-9EA7-4B7F74E1C1CB}|DEAN\\DEAN.vbproj|C:\\Users\\angel\\Downloads\\DEAN\\DEAN\\dean\\deanscheduling.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8E3B968E-D7C3-42EB-9EA7-4B7F74E1C1CB}|DEAN\\DEAN.vbproj|solutionrelative:dean\\deanscheduling.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E3B968E-D7C3-42EB-9EA7-4B7F74E1C1CB}|DEAN\\DEAN.vbproj|C:\\Users\\angel\\Downloads\\DEAN\\DEAN\\dean\\deanstudenttab.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8E3B968E-D7C3-42EB-9EA7-4B7F74E1C1CB}|DEAN\\DEAN.vbproj|solutionrelative:dean\\deanstudenttab.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E3B968E-D7C3-42EB-9EA7-4B7F74E1C1CB}|DEAN\\DEAN.vbproj|C:\\Users\\angel\\Downloads\\DEAN\\DEAN\\dean\\deanmainpanel.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8E3B968E-D7C3-42EB-9EA7-4B7F74E1C1CB}|DEAN\\DEAN.vbproj|solutionrelative:dean\\deanmainpanel.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E3B968E-D7C3-42EB-9EA7-4B7F74E1C1CB}|DEAN\\DEAN.vbproj|C:\\Users\\angel\\Downloads\\DEAN\\DEAN\\dean\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8E3B968E-D7C3-42EB-9EA7-4B7F74E1C1CB}|DEAN\\DEAN.vbproj|solutionrelative:dean\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E3B968E-D7C3-42EB-9EA7-4B7F74E1C1CB}|DEAN\\DEAN.vbproj|C:\\Users\\angel\\Downloads\\DEAN\\DEAN\\dean\\deandashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8E3B968E-D7C3-42EB-9EA7-4B7F74E1C1CB}|DEAN\\DEAN.vbproj|solutionrelative:dean\\deandashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E3B968E-D7C3-42EB-9EA7-4B7F74E1C1CB}|DEAN\\DEAN.vbproj|C:\\Users\\angel\\Downloads\\DEAN\\DEAN\\dean\\deanprofiletab.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8E3B968E-D7C3-42EB-9EA7-4B7F74E1C1CB}|DEAN\\DEAN.vbproj|solutionrelative:dean\\deanprofiletab.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E3B968E-D7C3-42EB-9EA7-4B7F74E1C1CB}|DEAN\\DEAN.vbproj|C:\\Users\\angel\\Downloads\\DEAN\\DEAN\\dean\\deanscheduling.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8E3B968E-D7C3-42EB-9EA7-4B7F74E1C1CB}|DEAN\\DEAN.vbproj|solutionrelative:dean\\deanscheduling.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E3B968E-D7C3-42EB-9EA7-4B7F74E1C1CB}|DEAN\\DEAN.vbproj|C:\\Users\\angel\\Downloads\\DEAN\\DEAN\\dean\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8E3B968E-D7C3-42EB-9EA7-4B7F74E1C1CB}|DEAN\\DEAN.vbproj|solutionrelative:dean\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E3B968E-D7C3-42EB-9EA7-4B7F74E1C1CB}|DEAN\\DEAN.vbproj|C:\\Users\\angel\\Downloads\\DEAN\\DEAN\\dean\\deanmodulevb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8E3B968E-D7C3-42EB-9EA7-4B7F74E1C1CB}|DEAN\\DEAN.vbproj|solutionrelative:dean\\deanmodulevb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E3B968E-D7C3-42EB-9EA7-4B7F74E1C1CB}|DEAN\\DEAN.vbproj|C:\\Users\\angel\\Downloads\\DEAN\\DEAN\\dean\\module_login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8E3B968E-D7C3-42EB-9EA7-4B7F74E1C1CB}|DEAN\\DEAN.vbproj|solutionrelative:dean\\module_login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E3B968E-D7C3-42EB-9EA7-4B7F74E1C1CB}|DEAN\\DEAN.vbproj|C:\\Users\\angel\\Downloads\\DEAN\\DEAN\\dean\\deanprofiletab.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8E3B968E-D7C3-42EB-9EA7-4B7F74E1C1CB}|DEAN\\DEAN.vbproj|solutionrelative:dean\\deanprofiletab.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|DEAN||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DEANMainPanel.vb",
+              "DocumentMoniker": "C:\\Users\\angel\\Downloads\\DEAN\\DEAN\\DEAN\\DEANMainPanel.vb",
+              "RelativeDocumentMoniker": "DEAN\\DEANMainPanel.vb",
+              "ToolTip": "C:\\Users\\angel\\Downloads\\DEAN\\DEAN\\DEAN\\DEANMainPanel.vb",
+              "RelativeToolTip": "DEAN\\DEANMainPanel.vb",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAMwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-05T08:32:38.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DEANStudentTab.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\angel\\Downloads\\DEAN\\DEAN\\DEAN\\DEANStudentTab.vb",
+              "RelativeDocumentMoniker": "DEAN\\DEANStudentTab.vb",
+              "ToolTip": "C:\\Users\\angel\\Downloads\\DEAN\\DEAN\\DEAN\\DEANStudentTab.vb [Design]",
+              "RelativeToolTip": "DEAN\\DEANStudentTab.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-18T17:40:24.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DEANScheduling.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\angel\\Downloads\\DEAN\\DEAN\\DEAN\\DEANScheduling.vb",
+              "RelativeDocumentMoniker": "DEAN\\DEANScheduling.vb",
+              "ToolTip": "C:\\Users\\angel\\Downloads\\DEAN\\DEAN\\DEAN\\DEANScheduling.vb [Design]",
+              "RelativeToolTip": "DEAN\\DEANScheduling.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-28T16:51:28.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DEANMainPanel.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\angel\\Downloads\\DEAN\\DEAN\\DEAN\\DEANMainPanel.vb",
+              "RelativeDocumentMoniker": "DEAN\\DEANMainPanel.vb",
+              "ToolTip": "C:\\Users\\angel\\Downloads\\DEAN\\DEAN\\DEAN\\DEANMainPanel.vb [Design]",
+              "RelativeToolTip": "DEAN\\DEANMainPanel.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-28T11:15:57.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\angel\\Downloads\\DEAN\\DEAN\\DEAN\\Form1.vb",
+              "RelativeDocumentMoniker": "DEAN\\Form1.vb",
+              "ToolTip": "C:\\Users\\angel\\Downloads\\DEAN\\DEAN\\DEAN\\Form1.vb [Design]",
+              "RelativeToolTip": "DEAN\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-03T14:55:02.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DEANProfileTab.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\angel\\Downloads\\DEAN\\DEAN\\DEAN\\DEANProfileTab.vb",
+              "RelativeDocumentMoniker": "DEAN\\DEANProfileTab.vb",
+              "ToolTip": "C:\\Users\\angel\\Downloads\\DEAN\\DEAN\\DEAN\\DEANProfileTab.vb [Design]",
+              "RelativeToolTip": "DEAN\\DEANProfileTab.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-28T17:01:35.101Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\angel\\Downloads\\DEAN\\DEAN\\DEAN\\Form1.vb",
+              "RelativeDocumentMoniker": "DEAN\\Form1.vb",
+              "ToolTip": "C:\\Users\\angel\\Downloads\\DEAN\\DEAN\\DEAN\\Form1.vb",
+              "RelativeToolTip": "DEAN\\Form1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-28T09:01:06.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DEANDashboard.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\angel\\Downloads\\DEAN\\DEAN\\DEAN\\DEANDashboard.vb",
+              "RelativeDocumentMoniker": "DEAN\\DEANDashboard.vb",
+              "ToolTip": "C:\\Users\\angel\\Downloads\\DEAN\\DEAN\\DEAN\\DEANDashboard.vb [Design]",
+              "RelativeToolTip": "DEAN\\DEANDashboard.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-03T15:00:44.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DEANModulevb.vb",
+              "DocumentMoniker": "C:\\Users\\angel\\Downloads\\DEAN\\DEAN\\DEAN\\DEANModulevb.vb",
+              "RelativeDocumentMoniker": "DEAN\\DEANModulevb.vb",
+              "ToolTip": "C:\\Users\\angel\\Downloads\\DEAN\\DEAN\\DEAN\\DEANModulevb.vb",
+              "RelativeToolTip": "DEAN\\DEANModulevb.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-05T08:36:48.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Module_Login.vb",
+              "DocumentMoniker": "C:\\Users\\angel\\Downloads\\DEAN\\DEAN\\DEAN\\Module_Login.vb",
+              "RelativeDocumentMoniker": "DEAN\\Module_Login.vb",
+              "ToolTip": "C:\\Users\\angel\\Downloads\\DEAN\\DEAN\\DEAN\\Module_Login.vb",
+              "RelativeToolTip": "DEAN\\Module_Login.vb",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-28T10:18:01.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DEANProfileTab.vb",
+              "DocumentMoniker": "C:\\Users\\angel\\Downloads\\DEAN\\DEAN\\DEAN\\DEANProfileTab.vb",
+              "RelativeDocumentMoniker": "DEAN\\DEANProfileTab.vb",
+              "ToolTip": "C:\\Users\\angel\\Downloads\\DEAN\\DEAN\\DEAN\\DEANProfileTab.vb",
+              "RelativeToolTip": "DEAN\\DEANProfileTab.vb",
+              "ViewState": "AQIAAAwAAAAAAAAAAADgvx4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-03T13:55:45.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DEANScheduling.vb",
+              "DocumentMoniker": "C:\\Users\\angel\\Downloads\\DEAN\\DEAN\\DEAN\\DEANScheduling.vb",
+              "RelativeDocumentMoniker": "DEAN\\DEANScheduling.vb",
+              "ToolTip": "C:\\Users\\angel\\Downloads\\DEAN\\DEAN\\DEAN\\DEANScheduling.vb",
+              "RelativeToolTip": "DEAN\\DEANScheduling.vb",
+              "ViewState": "AQIAAAEAAAAAAAAAAAA4wBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-03T14:49:58.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DEANDashboard.vb",
+              "DocumentMoniker": "C:\\Users\\angel\\Downloads\\DEAN\\DEAN\\DEAN\\DEANDashboard.vb",
+              "RelativeDocumentMoniker": "DEAN\\DEANDashboard.vb",
+              "ToolTip": "C:\\Users\\angel\\Downloads\\DEAN\\DEAN\\DEAN\\DEANDashboard.vb",
+              "RelativeToolTip": "DEAN\\DEANDashboard.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA+wAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-03T10:33:53.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DEANProfileTab.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\angel\\Downloads\\DEAN\\DEAN\\DEAN\\DEANProfileTab.Designer.vb",
+              "RelativeDocumentMoniker": "DEAN\\DEANProfileTab.Designer.vb",
+              "ToolTip": "C:\\Users\\angel\\Downloads\\DEAN\\DEAN\\DEAN\\DEANProfileTab.Designer.vb",
+              "RelativeToolTip": "DEAN\\DEANProfileTab.Designer.vb",
+              "ViewState": "AQIAAIoDAAAAAAAAAAAYwKcDAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-29T05:27:17.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DEAN",
+              "DocumentMoniker": "C:\\Users\\angel\\Downloads\\DEAN\\DEAN\\DEAN\\DEAN.vbproj",
+              "RelativeDocumentMoniker": "DEAN\\DEAN.vbproj",
+              "ToolTip": "C:\\Users\\angel\\Downloads\\DEAN\\DEAN\\DEAN\\DEAN.vbproj",
+              "RelativeToolTip": "DEAN\\DEAN.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-18T16:40:40.296Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

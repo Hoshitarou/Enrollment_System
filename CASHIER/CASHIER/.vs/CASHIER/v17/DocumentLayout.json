@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CASHIER\\CASHIER\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F7A8D47-1804-4BDA-B12A-5FDE54200639}|CASHIER\\CASHIER.vbproj|D:\\CASHIER\\CASHIER\\cashier\\cashierdashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8F7A8D47-1804-4BDA-B12A-5FDE54200639}|CASHIER\\CASHIER.vbproj|solutionrelative:cashier\\cashierdashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F7A8D47-1804-4BDA-B12A-5FDE54200639}|CASHIER\\CASHIER.vbproj|d:\\cashier\\cashier\\cashier\\cashiermodule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8F7A8D47-1804-4BDA-B12A-5FDE54200639}|CASHIER\\CASHIER.vbproj|solutionrelative:cashier\\cashiermodule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F7A8D47-1804-4BDA-B12A-5FDE54200639}|CASHIER\\CASHIER.vbproj|D:\\CASHIER\\CASHIER\\cashier\\cashiermainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8F7A8D47-1804-4BDA-B12A-5FDE54200639}|CASHIER\\CASHIER.vbproj|solutionrelative:cashier\\cashiermainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F7A8D47-1804-4BDA-B12A-5FDE54200639}|CASHIER\\CASHIER.vbproj|D:\\CASHIER\\CASHIER\\cashier\\cashierlogs.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8F7A8D47-1804-4BDA-B12A-5FDE54200639}|CASHIER\\CASHIER.vbproj|solutionrelative:cashier\\cashierlogs.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F7A8D47-1804-4BDA-B12A-5FDE54200639}|CASHIER\\CASHIER.vbproj|D:\\CASHIER\\CASHIER\\cashier\\cashierdashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8F7A8D47-1804-4BDA-B12A-5FDE54200639}|CASHIER\\CASHIER.vbproj|solutionrelative:cashier\\cashierdashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F7A8D47-1804-4BDA-B12A-5FDE54200639}|CASHIER\\CASHIER.vbproj|D:\\CASHIER\\CASHIER\\cashier\\module_login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8F7A8D47-1804-4BDA-B12A-5FDE54200639}|CASHIER\\CASHIER.vbproj|solutionrelative:cashier\\module_login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F7A8D47-1804-4BDA-B12A-5FDE54200639}|CASHIER\\CASHIER.vbproj|D:\\CASHIER\\CASHIER\\cashier\\cashierfinance.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8F7A8D47-1804-4BDA-B12A-5FDE54200639}|CASHIER\\CASHIER.vbproj|solutionrelative:cashier\\cashierfinance.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F7A8D47-1804-4BDA-B12A-5FDE54200639}|CASHIER\\CASHIER.vbproj|D:\\CASHIER\\CASHIER\\cashier\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8F7A8D47-1804-4BDA-B12A-5FDE54200639}|CASHIER\\CASHIER.vbproj|solutionrelative:cashier\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F7A8D47-1804-4BDA-B12A-5FDE54200639}|CASHIER\\CASHIER.vbproj|D:\\CASHIER\\CASHIER\\cashier\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8F7A8D47-1804-4BDA-B12A-5FDE54200639}|CASHIER\\CASHIER.vbproj|solutionrelative:cashier\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F7A8D47-1804-4BDA-B12A-5FDE54200639}|CASHIER\\CASHIER.vbproj|D:\\CASHIER\\CASHIER\\cashier\\cashierreports.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8F7A8D47-1804-4BDA-B12A-5FDE54200639}|CASHIER\\CASHIER.vbproj|solutionrelative:cashier\\cashierreports.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|CASHIER||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F7A8D47-1804-4BDA-B12A-5FDE54200639}|CASHIER\\CASHIER.vbproj|D:\\CASHIER\\CASHIER\\cashier\\cashierstudents.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8F7A8D47-1804-4BDA-B12A-5FDE54200639}|CASHIER\\CASHIER.vbproj|solutionrelative:cashier\\cashierstudents.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F7A8D47-1804-4BDA-B12A-5FDE54200639}|CASHIER\\CASHIER.vbproj|D:\\CASHIER\\CASHIER\\cashier\\cashiermainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8F7A8D47-1804-4BDA-B12A-5FDE54200639}|CASHIER\\CASHIER.vbproj|solutionrelative:cashier\\cashiermainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CASHIERDashboard.vb",
+              "DocumentMoniker": "D:\\CASHIER\\CASHIER\\CASHIER\\CASHIERDashboard.vb",
+              "RelativeDocumentMoniker": "CASHIER\\CASHIERDashboard.vb",
+              "ToolTip": "D:\\CASHIER\\CASHIER\\CASHIER\\CASHIERDashboard.vb",
+              "RelativeToolTip": "CASHIER\\CASHIERDashboard.vb",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAmwAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-06T17:04:02.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CASHIERLogs.vb [Design]",
+              "DocumentMoniker": "D:\\CASHIER\\CASHIER\\CASHIER\\CASHIERLogs.vb",
+              "RelativeDocumentMoniker": "CASHIER\\CASHIERLogs.vb",
+              "ToolTip": "D:\\CASHIER\\CASHIER\\CASHIER\\CASHIERLogs.vb [Design]",
+              "RelativeToolTip": "CASHIER\\CASHIERLogs.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-06T07:16:19.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CASHIERMainForm.vb [Design]",
+              "DocumentMoniker": "D:\\CASHIER\\CASHIER\\CASHIER\\CASHIERMainForm.vb",
+              "RelativeDocumentMoniker": "CASHIER\\CASHIERMainForm.vb",
+              "ToolTip": "D:\\CASHIER\\CASHIER\\CASHIER\\CASHIERMainForm.vb [Design]",
+              "RelativeToolTip": "CASHIER\\CASHIERMainForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-06T05:12:18.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CASHIERModule.vb",
+              "DocumentMoniker": "D:\\CASHIER\\CASHIER\\CASHIER\\CASHIERModule.vb",
+              "RelativeDocumentMoniker": "CASHIER\\CASHIERModule.vb",
+              "ToolTip": "D:\\CASHIER\\CASHIER\\CASHIER\\CASHIERModule.vb",
+              "RelativeToolTip": "CASHIER\\CASHIERModule.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-06T07:28:47.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Module_Login.vb",
+              "DocumentMoniker": "D:\\CASHIER\\CASHIER\\CASHIER\\Module_Login.vb",
+              "RelativeDocumentMoniker": "CASHIER\\Module_Login.vb",
+              "ToolTip": "D:\\CASHIER\\CASHIER\\CASHIER\\Module_Login.vb",
+              "RelativeToolTip": "CASHIER\\Module_Login.vb",
+              "ViewState": "AQIAACsAAAAAAAAAAAAewDYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-06T07:26:07.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CASHIERDashboard.vb [Design]",
+              "DocumentMoniker": "D:\\CASHIER\\CASHIER\\CASHIER\\CASHIERDashboard.vb",
+              "RelativeDocumentMoniker": "CASHIER\\CASHIERDashboard.vb",
+              "ToolTip": "D:\\CASHIER\\CASHIER\\CASHIER\\CASHIERDashboard.vb [Design]",
+              "RelativeToolTip": "CASHIER\\CASHIERDashboard.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-09T07:44:54.646Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CASHIERFinance.vb [Design]",
+              "DocumentMoniker": "D:\\CASHIER\\CASHIER\\CASHIER\\CASHIERFinance.vb",
+              "RelativeDocumentMoniker": "CASHIER\\CASHIERFinance.vb",
+              "ToolTip": "C:\\Users\\angel\\Downloads\\DEAN\\CASHIER\\CASHIER\\CASHIERFinance.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-06T07:22:36.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\CASHIER\\CASHIER\\CASHIER\\Form1.vb",
+              "RelativeDocumentMoniker": "CASHIER\\Form1.vb",
+              "ToolTip": "D:\\CASHIER\\CASHIER\\CASHIER\\Form1.vb",
+              "RelativeToolTip": "CASHIER\\Form1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-06T07:29:28.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\CASHIER\\CASHIER\\CASHIER\\Form1.vb",
+              "RelativeDocumentMoniker": "CASHIER\\Form1.vb",
+              "ToolTip": "C:\\Users\\angel\\Downloads\\DEAN\\CASHIER\\CASHIER\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-09T06:40:47.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CASHIERReports.vb [Design]",
+              "DocumentMoniker": "D:\\CASHIER\\CASHIER\\CASHIER\\CASHIERReports.vb",
+              "RelativeDocumentMoniker": "CASHIER\\CASHIERReports.vb",
+              "ToolTip": "C:\\Users\\angel\\Downloads\\DEAN\\CASHIER\\CASHIER\\CASHIERReports.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-06T07:24:31.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CASHIER",
+              "DocumentMoniker": "D:\\CASHIER\\CASHIER\\CASHIER\\CASHIER.vbproj",
+              "RelativeDocumentMoniker": "CASHIER\\CASHIER.vbproj",
+              "ToolTip": "D:\\CASHIER\\CASHIER\\CASHIER\\CASHIER.vbproj",
+              "RelativeToolTip": "CASHIER\\CASHIER.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-06T06:06:48.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CASHIERMainForm.vb",
+              "DocumentMoniker": "D:\\CASHIER\\CASHIER\\CASHIER\\CASHIERMainForm.vb",
+              "RelativeDocumentMoniker": "CASHIER\\CASHIERMainForm.vb",
+              "ToolTip": "D:\\CASHIER\\CASHIER\\CASHIER\\CASHIERMainForm.vb",
+              "RelativeToolTip": "CASHIER\\CASHIERMainForm.vb",
+              "ViewState": "AQIAABkAAAAAAAAAAAAuwC8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-06T07:13:19.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CASHIERStudents.vb [Design]",
+              "DocumentMoniker": "D:\\CASHIER\\CASHIER\\CASHIER\\CASHIERStudents.vb",
+              "RelativeDocumentMoniker": "CASHIER\\CASHIERStudents.vb",
+              "ToolTip": "C:\\Users\\angel\\Downloads\\DEAN\\CASHIER\\CASHIER\\CASHIERStudents.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-06T07:15:22.105Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
