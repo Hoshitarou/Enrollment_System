@@ -4,7 +4,7 @@ Public Class ADMISSIONLogin
 
     Private Sub btnlogin_Click(sender As Object, e As EventArgs) Handles btnlogin.Click
 
-        Dim status = LogiinREsult(txtUsername, txtPassword, {"Admission"})
+        Dim status = LoginResult(txtUsername, txtPassword, {"Admission"})
 
         Select Case status
             Case LoginStatus.Success

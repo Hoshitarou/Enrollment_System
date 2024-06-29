@@ -1,8 +1,11 @@
 ﻿Imports System.Data.OleDb
+Imports System.IO
+Imports System.Web.UI.WebControls
 
 Module AccDB
 
-    Dim conStr = $"Provider=Microsoft.ACE.OLEDB.12.0;Data Source={Application.StartupPath}\EnrollmentSystem.accdb"
+    Dim workingDirectory = Environment.CurrentDirectory
+    Dim conStr = $"Provider=Microsoft.ACE.OLEDB.12.0;Data Source={Directory.GetParent(workingDirectory).Parent.Parent.Parent.FullName}\Database\EnrollmentSystem.accdb"
     Public con As New OleDbConnection(conStr)
     Public isConnectionTested = False
 
@@ -27,15 +30,34 @@ Module AccDB
 
         Catch ex As Exception
             MessageBox.Show("At AccDB " + vbNewLine + ex.Message)
+            Application.Exit()
         End Try
 
     End Sub
 
-    Public Function InserIntoBuilder(table As String, column As String, value As String) As String
+    Public Sub DoUpdate(sql As String)
 
-        Return $"INSERT INTO {table} ({column}) VALUES ({value})"
+        Dim command As New OleDbCommand(sql, con)
+        command.ExecuteNonQuery()
+
+
+    End Sub
+
+    Public Function DoIncrement(sql As String) As String
+
+        Return Integer.Parse((DoScalar(sql) + 1).ToString())
 
     End Function
+
+    Public Sub DoDisplayToDataGridView(sql As String, dgv As DataGridView)
+
+        Dim da As New OleDbDataAdapter(sql, con)
+        Dim table As New DataTable
+        da.Fill(table)
+
+        dgv.DataSource = table
+
+    End Sub
 
     Public Class MieInsertInto
         Private table As String

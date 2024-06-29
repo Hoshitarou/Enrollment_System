@@ -24,7 +24,8 @@ Public Class Admit
 
         End If
 
-        Dim query As New MieInsertInto("tblStudent")
+        Dim query As New MieInsertInto("Student")
+        query.AddValueToColumn("StudentID", DoIncrement("SELECT MAX(StudentID) FROM Student"))
         query.AddValueToColumn("LastName", tbLN.Text)
         query.AddValueToColumn("FirstName", tbFN.Text)
         query.AddValueToColumn("MiddleName", tbMN.Text)

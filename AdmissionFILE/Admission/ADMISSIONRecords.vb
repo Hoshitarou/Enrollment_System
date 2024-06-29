@@ -5,4 +5,10 @@
         MainForm.Show()
 
     End Sub
+
+    Private Sub ADMISSIONRecords_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
+        DoDisplayToDataGridView("SELECT * FROM Student", DataGridView1)
+
+    End Sub
 End Class
