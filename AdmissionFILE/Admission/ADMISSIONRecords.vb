@@ -8,7 +8,7 @@
 
     Private Sub ADMISSIONRecords_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
-        DoDisplayToDataGridView("SELECT * FROM Student", DataGridView1)
+        DoDisplayToDataGridView("SELECT * FROM qryStudent", DataGridView1)
 
     End Sub
 End Class

@@ -1,6 +1,7 @@
 ﻿Imports System.Data.OleDb
 Imports System.IO
-Imports System.Web.UI.WebControls
+Imports Guna.UI.WinForms
+Imports Guna.UI2.WinForms
 
 Module AccDB
 
@@ -84,5 +85,31 @@ Module AccDB
         End Sub
 
     End Class
+
+    Public Sub DoUpdateObj(obj As Object, value As Object)
+
+        If IsDBNull(value) Then
+            Return
+        End If
+
+        If TypeOf obj Is TextBox Then
+
+            DirectCast(obj, TextBox).Text = value
+
+        ElseIf TypeOf obj Is ComboBox Then
+
+            DirectCast(obj, ComboBox).SelectedItem = value
+
+        ElseIf TypeOf obj Is DateTimePicker Then
+
+            DirectCast(obj, DateTimePicker).Value = value
+
+        ElseIf TypeOf obj Is GunaCheckBox Then
+
+            DirectCast(obj, GunaCheckBox).Checked = value
+
+        End If
+
+    End Sub
 
 End Module

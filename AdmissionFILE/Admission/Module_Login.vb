@@ -34,18 +34,18 @@ Module Module_Login
 
         For i = 0 To role.Length - 1
 
-            Dim sql = $"SELECT * FROM qryUser WHERE Username='{username.Text}' AND Role='{role(i)}'"
+            Dim sql = $"SELECT * FROM qryLogin WHERE Username='{username.Text}' AND Role='{role(i)}'"
             Dim command As New OleDbCommand(sql, con)
             Dim reader = command.ExecuteReader()
 
             If reader.Read Then
-                If reader("AcctStatus").ToString = "Locked" Then
+                If reader("AccountStatus").ToString = "Locked" Then
                     Return LoginStatus.Locked
                 End If
 
-                If reader("Password") <> password.Text Then
+                If reader("Passcode") <> password.Text Then
 
-                    DoUpdate($"UPDATE SchoolUser SET Attempts={reader("Attempts") + 1} WHERE EmployeeNo='{reader("EmployeeNo")}'")
+                    DoUpdate($"UPDATE Account SET Attempts='{reader("Attempts") + 1}' WHERE AccountNo='{reader("AccountNo")}'")
 
                     If isZeroAttempts(reader) Then
                         Return LoginStatus.ZeroAttempt
@@ -54,7 +54,7 @@ Module Module_Login
                     Return LoginStatus.Incorrect
                 Else
 
-                    DoUpdate($"UPDATE SchoolUser SET Attempts=0 WHERE EmployeeNo='{reader("EmployeeNo")}'")
+                    DoUpdate($"UPDATE Account SET Attempts='0' WHERE AccountNo='{reader("AccountNo")}'")
 
                     Return LoginStatus.Success
 

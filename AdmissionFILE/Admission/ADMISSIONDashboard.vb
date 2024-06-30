@@ -8,13 +8,10 @@
 
         Timer1.Enabled = True
 
-        lblEnrolled.Text = DoScalar("SELECT COUNT(*) FROM Enrollment_Details WHERE EnrollmentStatus='Enrolled'")
-        lblActive.Text = DoScalar("SELECT COUNT(*) FROM Student WHERE Status='Active'")
-        lblInactive.Text = DoScalar("SELECT COUNT(*) FROM Student WHERE Status='Inactive'")
+        lblEnrolled.Text = DoScalar("SELECT COUNT(*) FROM EnrollmentDetails WHERE EnrollmentStatus='Enrolled'")
+        lblActive.Text = DoScalar("SELECT COUNT(*) FROM Account WHERE AccountStatus='Active' AND Role='Student'")
+        lblInactive.Text = DoScalar("SELECT COUNT(*) FROM Account WHERE AccountStatus='Inactive' AND Role='Student'")
 
     End Sub
 
-    Private Sub Guna2Panel3_Paint(sender As Object, e As PaintEventArgs) Handles Guna2Panel3.Paint
-
-    End Sub
 End Class
