@@ -5,6 +5,13 @@
     End Sub
 
     Private Sub ADMISSIONDashboard_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
         Timer1.Enabled = True
+
+        lblEnrolled.Text = DoScalar("SELECT COUNT(*) FROM EnrollmentDetails WHERE EnrollmentStatus='Enrolled'")
+        lblActive.Text = DoScalar("SELECT COUNT(*) FROM Account WHERE AccountStatus='Active' AND Role='Student'")
+        lblInactive.Text = DoScalar("SELECT COUNT(*) FROM Account WHERE AccountStatus='Inactive' AND Role='Student'")
+
     End Sub
+
 End Class

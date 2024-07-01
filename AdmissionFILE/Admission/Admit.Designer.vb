@@ -36,7 +36,6 @@ Partial Class Admit
         Me.Label18 = New System.Windows.Forms.Label()
         Me.tbGContact = New System.Windows.Forms.TextBox()
         Me.Label12 = New System.Windows.Forms.Label()
-        Me.Guna2Button2 = New Guna.UI2.WinForms.Guna2Button()
         Me.Guna2Button1 = New Guna.UI2.WinForms.Guna2Button()
         Me.Label20 = New System.Windows.Forms.Label()
         Me.tbAddress = New System.Windows.Forms.TextBox()
@@ -46,15 +45,12 @@ Partial Class Admit
         Me.Label16 = New System.Windows.Forms.Label()
         Me.cbYRLVL = New System.Windows.Forms.ComboBox()
         Me.Label15 = New System.Windows.Forms.Label()
-        Me.cbStudType = New System.Windows.Forms.ComboBox()
-        Me.Label14 = New System.Windows.Forms.Label()
         Me.Label8 = New System.Windows.Forms.Label()
         Me.dtpBirthday = New System.Windows.Forms.DateTimePicker()
         Me.Label9 = New System.Windows.Forms.Label()
         Me.tbEmail = New System.Windows.Forms.TextBox()
         Me.Label7 = New System.Windows.Forms.Label()
         Me.tbContact = New System.Windows.Forms.TextBox()
-        Me.Label6 = New System.Windows.Forms.Label()
         Me.Label2 = New System.Windows.Forms.Label()
         Me.tbMN = New System.Windows.Forms.TextBox()
         Me.Label5 = New System.Windows.Forms.Label()
@@ -63,9 +59,8 @@ Partial Class Admit
         Me.tbLN = New System.Windows.Forms.TextBox()
         Me.cbSemester = New System.Windows.Forms.ComboBox()
         Me.Label1 = New System.Windows.Forms.Label()
-        Me.Label11 = New System.Windows.Forms.Label()
-        Me.TextBox1 = New System.Windows.Forms.TextBox()
-        Me.tbLRN = New Guna.UI.WinForms.GunaLineTextBox()
+        Me.Label4 = New System.Windows.Forms.Label()
+        Me.tbStudentNo = New System.Windows.Forms.TextBox()
         Me.GunaGroupBox1.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -196,7 +191,7 @@ Partial Class Admit
         'tbGuardianN
         '
         Me.tbGuardianN.Font = New System.Drawing.Font("Palatino Linotype", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.tbGuardianN.Location = New System.Drawing.Point(62, 591)
+        Me.tbGuardianN.Location = New System.Drawing.Point(61, 591)
         Me.tbGuardianN.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.tbGuardianN.MaxLength = 23
         Me.tbGuardianN.Multiline = True
@@ -207,11 +202,11 @@ Partial Class Admit
         'Label10
         '
         Me.Label10.AutoSize = True
-        Me.Label10.Font = New System.Drawing.Font("Arial Rounded MT Bold", 28.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label10.Font = New System.Drawing.Font("Microsoft Sans Serif", 28.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label10.ForeColor = System.Drawing.Color.DodgerBlue
-        Me.Label10.Location = New System.Drawing.Point(22, 22)
+        Me.Label10.Location = New System.Drawing.Point(21, 22)
         Me.Label10.Name = "Label10"
-        Me.Label10.Size = New System.Drawing.Size(348, 54)
+        Me.Label10.Size = New System.Drawing.Size(315, 54)
         Me.Label10.TabIndex = 162
         Me.Label10.Text = "Admit Student"
         '
@@ -254,28 +249,11 @@ Partial Class Admit
         Me.Label12.AutoSize = True
         Me.Label12.Font = New System.Drawing.Font("Palatino Linotype", 10.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label12.ForeColor = System.Drawing.Color.White
-        Me.Label12.Location = New System.Drawing.Point(649, 563)
+        Me.Label12.Location = New System.Drawing.Point(649, 562)
         Me.Label12.Name = "Label12"
         Me.Label12.Size = New System.Drawing.Size(138, 23)
         Me.Label12.TabIndex = 158
         Me.Label12.Text = "Contact Number"
-        '
-        'Guna2Button2
-        '
-        Me.Guna2Button2.BorderRadius = 15
-        Me.Guna2Button2.DisabledState.BorderColor = System.Drawing.Color.DarkGray
-        Me.Guna2Button2.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray
-        Me.Guna2Button2.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
-        Me.Guna2Button2.DisabledState.ForeColor = System.Drawing.Color.FromArgb(CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer))
-        Me.Guna2Button2.FillColor = System.Drawing.Color.FromArgb(CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer))
-        Me.Guna2Button2.Font = New System.Drawing.Font("Arial Rounded MT Bold", 10.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Guna2Button2.ForeColor = System.Drawing.Color.Black
-        Me.Guna2Button2.Location = New System.Drawing.Point(31, 735)
-        Me.Guna2Button2.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
-        Me.Guna2Button2.Name = "Guna2Button2"
-        Me.Guna2Button2.Size = New System.Drawing.Size(244, 60)
-        Me.Guna2Button2.TabIndex = 157
-        Me.Guna2Button2.Text = "CLEAR"
         '
         'Guna2Button1
         '
@@ -285,9 +263,9 @@ Partial Class Admit
         Me.Guna2Button1.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
         Me.Guna2Button1.DisabledState.ForeColor = System.Drawing.Color.FromArgb(CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer))
         Me.Guna2Button1.FillColor = System.Drawing.Color.FromArgb(CType(CType(116, Byte), Integer), CType(CType(94, Byte), Integer), CType(CType(248, Byte), Integer))
-        Me.Guna2Button1.Font = New System.Drawing.Font("Arial Rounded MT Bold", 10.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Guna2Button1.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Guna2Button1.ForeColor = System.Drawing.Color.Black
-        Me.Guna2Button1.Location = New System.Drawing.Point(962, 735)
+        Me.Guna2Button1.Location = New System.Drawing.Point(963, 735)
         Me.Guna2Button1.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.Guna2Button1.Name = "Guna2Button1"
         Me.Guna2Button1.Size = New System.Drawing.Size(243, 60)
@@ -299,7 +277,7 @@ Partial Class Admit
         Me.Label20.AutoSize = True
         Me.Label20.Font = New System.Drawing.Font("Palatino Linotype", 10.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label20.ForeColor = System.Drawing.Color.White
-        Me.Label20.Location = New System.Drawing.Point(58, 337)
+        Me.Label20.Location = New System.Drawing.Point(59, 337)
         Me.Label20.Name = "Label20"
         Me.Label20.Size = New System.Drawing.Size(123, 23)
         Me.Label20.TabIndex = 155
@@ -308,7 +286,7 @@ Partial Class Admit
         'tbAddress
         '
         Me.tbAddress.Font = New System.Drawing.Font("Palatino Linotype", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.tbAddress.Location = New System.Drawing.Point(62, 362)
+        Me.tbAddress.Location = New System.Drawing.Point(61, 362)
         Me.tbAddress.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.tbAddress.MaxLength = 70
         Me.tbAddress.Multiline = True
@@ -364,48 +342,24 @@ Partial Class Admit
         'cbYRLVL
         '
         Me.cbYRLVL.Font = New System.Drawing.Font("Palatino Linotype", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.cbYRLVL.Items.AddRange(New Object() {"1st Year", "2nd Year", "3rd Year", "4th Year"})
-        Me.cbYRLVL.Location = New System.Drawing.Point(194, 478)
+        Me.cbYRLVL.Items.AddRange(New Object() {"1", "2", "3", "4"})
+        Me.cbYRLVL.Location = New System.Drawing.Point(195, 478)
         Me.cbYRLVL.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.cbYRLVL.Name = "cbYRLVL"
         Me.cbYRLVL.Size = New System.Drawing.Size(116, 35)
         Me.cbYRLVL.TabIndex = 149
-        Me.cbYRLVL.Text = "1st Year"
+        Me.cbYRLVL.Text = "1"
         '
         'Label15
         '
         Me.Label15.AutoSize = True
         Me.Label15.Font = New System.Drawing.Font("Palatino Linotype", 10.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label15.ForeColor = System.Drawing.Color.White
-        Me.Label15.Location = New System.Drawing.Point(190, 453)
+        Me.Label15.Location = New System.Drawing.Point(189, 453)
         Me.Label15.Name = "Label15"
         Me.Label15.Size = New System.Drawing.Size(88, 23)
         Me.Label15.TabIndex = 148
         Me.Label15.Text = "Year Level"
-        '
-        'cbStudType
-        '
-        Me.cbStudType.Font = New System.Drawing.Font("Palatino Linotype", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.cbStudType.FormattingEnabled = True
-        Me.cbStudType.Items.AddRange(New Object() {"Old", "New"})
-        Me.cbStudType.Location = New System.Drawing.Point(359, 476)
-        Me.cbStudType.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
-        Me.cbStudType.Name = "cbStudType"
-        Me.cbStudType.Size = New System.Drawing.Size(120, 35)
-        Me.cbStudType.TabIndex = 147
-        Me.cbStudType.TabStop = False
-        Me.cbStudType.Text = "New"
-        '
-        'Label14
-        '
-        Me.Label14.AutoSize = True
-        Me.Label14.Font = New System.Drawing.Font("Palatino Linotype", 10.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label14.ForeColor = System.Drawing.Color.White
-        Me.Label14.Location = New System.Drawing.Point(353, 452)
-        Me.Label14.Name = "Label14"
-        Me.Label14.Size = New System.Drawing.Size(112, 23)
-        Me.Label14.TabIndex = 146
-        Me.Label14.Text = "Student Type"
         '
         'Label8
         '
@@ -474,17 +428,6 @@ Partial Class Admit
         Me.tbContact.Size = New System.Drawing.Size(241, 40)
         Me.tbContact.TabIndex = 140
         '
-        'Label6
-        '
-        Me.Label6.AutoSize = True
-        Me.Label6.Font = New System.Drawing.Font("Palatino Linotype", 13.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label6.ForeColor = System.Drawing.Color.White
-        Me.Label6.Location = New System.Drawing.Point(1034, 109)
-        Me.Label6.Name = "Label6"
-        Me.Label6.Size = New System.Drawing.Size(75, 31)
-        Me.Label6.TabIndex = 139
-        Me.Label6.Text = "L R N"
-        '
         'Label2
         '
         Me.Label2.AutoSize = True
@@ -512,7 +455,7 @@ Partial Class Admit
         Me.Label5.AutoSize = True
         Me.Label5.Font = New System.Drawing.Font("Palatino Linotype", 10.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label5.ForeColor = System.Drawing.Color.White
-        Me.Label5.Location = New System.Drawing.Point(646, 117)
+        Me.Label5.Location = New System.Drawing.Point(645, 117)
         Me.Label5.Name = "Label5"
         Me.Label5.Size = New System.Drawing.Size(93, 23)
         Me.Label5.TabIndex = 135
@@ -555,13 +498,13 @@ Partial Class Admit
         '
         Me.cbSemester.Font = New System.Drawing.Font("Palatino Linotype", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.cbSemester.FormattingEnabled = True
-        Me.cbSemester.Items.AddRange(New Object() {"1st Semester", "2nd Semester"})
+        Me.cbSemester.Items.AddRange(New Object() {"1", "2"})
         Me.cbSemester.Location = New System.Drawing.Point(651, 367)
         Me.cbSemester.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.cbSemester.Name = "cbSemester"
         Me.cbSemester.Size = New System.Drawing.Size(241, 35)
         Me.cbSemester.TabIndex = 167
-        Me.cbSemester.Text = "1st Semester"
+        Me.cbSemester.Text = "1"
         '
         'Label1
         '
@@ -574,45 +517,27 @@ Partial Class Admit
         Me.Label1.TabIndex = 166
         Me.Label1.Text = "Semester"
         '
-        'Label11
+        'Label4
         '
-        Me.Label11.AutoSize = True
-        Me.Label11.Font = New System.Drawing.Font("Palatino Linotype", 10.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label11.ForeColor = System.Drawing.Color.White
-        Me.Label11.Location = New System.Drawing.Point(648, 452)
-        Me.Label11.Name = "Label11"
-        Me.Label11.Size = New System.Drawing.Size(141, 23)
-        Me.Label11.TabIndex = 168
-        Me.Label11.Text = "Type of Discount"
+        Me.Label4.AutoSize = True
+        Me.Label4.Font = New System.Drawing.Font("Palatino Linotype", 10.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label4.ForeColor = System.Drawing.Color.White
+        Me.Label4.Location = New System.Drawing.Point(1043, 53)
+        Me.Label4.Name = "Label4"
+        Me.Label4.Size = New System.Drawing.Size(97, 23)
+        Me.Label4.TabIndex = 168
+        Me.Label4.Text = "Student No"
         '
-        'TextBox1
+        'tbStudentNo
         '
-        Me.TextBox1.Font = New System.Drawing.Font("Palatino Linotype", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox1.Location = New System.Drawing.Point(651, 478)
-        Me.TextBox1.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
-        Me.TextBox1.MaxLength = 20
-        Me.TextBox1.Multiline = True
-        Me.TextBox1.Name = "TextBox1"
-        Me.TextBox1.Size = New System.Drawing.Size(241, 34)
-        Me.TextBox1.TabIndex = 169
-        '
-        'tbLRN
-        '
-        Me.tbLRN.BackColor = System.Drawing.Color.FromArgb(CType(CType(29, Byte), Integer), CType(CType(29, Byte), Integer), CType(CType(29, Byte), Integer))
-        Me.tbLRN.Cursor = System.Windows.Forms.Cursors.IBeam
-        Me.tbLRN.FocusedLineColor = System.Drawing.Color.FromArgb(CType(CType(100, Byte), Integer), CType(CType(88, Byte), Integer), CType(CType(255, Byte), Integer))
-        Me.tbLRN.Font = New System.Drawing.Font("Segoe UI", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.tbLRN.ForeColor = System.Drawing.Color.White
-        Me.tbLRN.LineColor = System.Drawing.Color.IndianRed
-        Me.tbLRN.LineSize = 2
-        Me.tbLRN.Location = New System.Drawing.Point(962, 69)
-        Me.tbLRN.MaxLength = 12
-        Me.tbLRN.Name = "tbLRN"
-        Me.tbLRN.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
-        Me.tbLRN.SelectedText = ""
-        Me.tbLRN.Size = New System.Drawing.Size(221, 37)
-        Me.tbLRN.TabIndex = 170
-        Me.tbLRN.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
+        Me.tbStudentNo.Font = New System.Drawing.Font("Palatino Linotype", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.tbStudentNo.Location = New System.Drawing.Point(968, 78)
+        Me.tbStudentNo.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
+        Me.tbStudentNo.MaxLength = 23
+        Me.tbStudentNo.Multiline = True
+        Me.tbStudentNo.Name = "tbStudentNo"
+        Me.tbStudentNo.Size = New System.Drawing.Size(241, 40)
+        Me.tbStudentNo.TabIndex = 169
         '
         'Admit
         '
@@ -620,9 +545,8 @@ Partial Class Admit
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.FromArgb(CType(CType(29, Byte), Integer), CType(CType(29, Byte), Integer), CType(CType(29, Byte), Integer))
         Me.ClientSize = New System.Drawing.Size(1287, 828)
-        Me.Controls.Add(Me.tbLRN)
-        Me.Controls.Add(Me.TextBox1)
-        Me.Controls.Add(Me.Label11)
+        Me.Controls.Add(Me.tbStudentNo)
+        Me.Controls.Add(Me.Label4)
         Me.Controls.Add(Me.cbSemester)
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.GunaGroupBox1)
@@ -633,7 +557,6 @@ Partial Class Admit
         Me.Controls.Add(Me.Label18)
         Me.Controls.Add(Me.tbGContact)
         Me.Controls.Add(Me.Label12)
-        Me.Controls.Add(Me.Guna2Button2)
         Me.Controls.Add(Me.Guna2Button1)
         Me.Controls.Add(Me.Label20)
         Me.Controls.Add(Me.tbAddress)
@@ -643,15 +566,12 @@ Partial Class Admit
         Me.Controls.Add(Me.Label16)
         Me.Controls.Add(Me.cbYRLVL)
         Me.Controls.Add(Me.Label15)
-        Me.Controls.Add(Me.cbStudType)
-        Me.Controls.Add(Me.Label14)
         Me.Controls.Add(Me.Label8)
         Me.Controls.Add(Me.dtpBirthday)
         Me.Controls.Add(Me.Label9)
         Me.Controls.Add(Me.tbEmail)
         Me.Controls.Add(Me.Label7)
         Me.Controls.Add(Me.tbContact)
-        Me.Controls.Add(Me.Label6)
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.tbMN)
         Me.Controls.Add(Me.Label5)
@@ -684,7 +604,6 @@ Partial Class Admit
     Friend WithEvents Label18 As Label
     Friend WithEvents tbGContact As TextBox
     Friend WithEvents Label12 As Label
-    Friend WithEvents Guna2Button2 As Guna.UI2.WinForms.Guna2Button
     Friend WithEvents Guna2Button1 As Guna.UI2.WinForms.Guna2Button
     Friend WithEvents Label20 As Label
     Friend WithEvents tbAddress As TextBox
@@ -693,15 +612,12 @@ Partial Class Admit
     Friend WithEvents cbCourse As ComboBox
     Friend WithEvents Label16 As Label
     Friend WithEvents Label15 As Label
-    Friend WithEvents cbStudType As ComboBox
-    Friend WithEvents Label14 As Label
     Friend WithEvents Label8 As Label
     Friend WithEvents dtpBirthday As DateTimePicker
     Friend WithEvents Label9 As Label
     Friend WithEvents tbEmail As TextBox
     Friend WithEvents Label7 As Label
     Friend WithEvents tbContact As TextBox
-    Friend WithEvents Label6 As Label
     Friend WithEvents Label2 As Label
     Friend WithEvents tbMN As TextBox
     Friend WithEvents Label5 As Label
@@ -710,8 +626,7 @@ Partial Class Admit
     Friend WithEvents tbLN As TextBox
     Friend WithEvents cbSemester As ComboBox
     Friend WithEvents Label1 As Label
-    Friend WithEvents Label11 As Label
-    Friend WithEvents TextBox1 As TextBox
-    Friend WithEvents tbLRN As Guna.UI.WinForms.GunaLineTextBox
     Private WithEvents cbYRLVL As ComboBox
+    Friend WithEvents Label4 As Label
+    Friend WithEvents tbStudentNo As TextBox
 End Class
